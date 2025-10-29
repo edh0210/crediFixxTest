@@ -1,0 +1,10 @@
+
+para instalar>
+
+#1 correr el proyecto en docker -> docker compose up -d --build
+#2 validar datos de conectividad en BD. (datos estan en el docker-compose linea#17 en adelante)
+#3 validar migracion en BD. 
+
+directorio en http://localhost:8080
+
+
